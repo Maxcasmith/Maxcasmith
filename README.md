@@ -20,4 +20,5 @@
 <p>Here's where you can check out any and all geeky/wonderful projects I'm working on. If something intrigues you and you wish to get in touch you can <a href="mailto:maxcasmith@gmail.com">email me here.</a> Will keep my most exciting repositories pinned for all to see. (Unless you're Toby... go home Toby!)</p>
 <p>Hear of a new tech you're excited to chat about? I'm always up for learning something new and having in depth discussions that last far too long about them.</p>
 
+<p>Check out some of my designs by tapping the pink dribbble icon below!</p>
 <a href="https://dribbble.com/maxcasmith" ><img alt="dribbble" src="https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=dribbble&logoColor=white" /></a>
