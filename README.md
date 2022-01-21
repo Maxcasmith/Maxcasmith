@@ -17,6 +17,7 @@
 
 <br>
 <p>Welcome to my Github profile! :beers:</p>
+<p>Above you'll find some of the tech I like to work with on a daily basis.</p>
 <p>Here's where you can check out any and all geeky/wonderful projects I'm working on. If something intrigues you and you wish to get in touch you can <a href="mailto:maxcasmith@gmail.com">email me here.</a> Will keep my most exciting repositories pinned for all to see. (Unless you're Toby... go home Toby!)</p>
 <p>Hear of a new tech you're excited to chat about? I'm always up for learning something new and having in depth discussions that last far too long about them.</p>
 
